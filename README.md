@@ -7,3 +7,4 @@
 require approval from someone other than the last pusher 테스트   
 Require review from Code Owners 테스트
 Require review from Code Owners(including someone other than PR author) 테스트
+Require review from Code Owners(including people other than PR author) 테스트
